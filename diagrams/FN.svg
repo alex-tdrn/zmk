@@ -96,7 +96,7 @@ rect.vertical_combo, rect.diagonal_combo {
 }
 </style>
 <g transform="translate(10, 0)" class="layer-FN">
-<text x="0" y="20" class="label">FN</text>
+<text x="0" y="20" class="label" id="FN">FN</text>
 <g transform="translate(0, 40)">
 <g transform="translate(42, 125)" class="key held keypos-0">
 <rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key held side"/>

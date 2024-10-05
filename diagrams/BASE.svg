@@ -96,7 +96,7 @@ rect.vertical_combo, rect.diagonal_combo {
 }
 </style>
 <g transform="translate(10, 0)" class="layer-BASE">
-<text x="0" y="20" class="label">BASE</text>
+<text x="0" y="20" class="label" id="BASE">BASE</text>
 <g transform="translate(0, 134)">
 <g transform="translate(42, 125)" class="key keypos-0">
 <rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key side"/>
@@ -533,7 +533,7 @@ rect.vertical_combo, rect.diagonal_combo {
 </g>
 </g>
 </g>
-<text x="10" y="580" class="label">Combos</text>
+<text x="10" y="580" class="label" id="Combos">Combos</text>
 <g transform="translate(10, 560)" class="layer-combopos-0">
 <g transform="translate(0, 40)">
 <g transform="translate(40, 40)" class="key  combo-separate keypos-0">
